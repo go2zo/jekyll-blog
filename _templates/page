@@ -1,0 +1,6 @@
+---
+layout: {{ layout }}
+current: page
+title: "{{ title }}"
+permalink: ''
+---

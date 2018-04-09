@@ -1,0 +1,12 @@
+---
+layout: {{ layout }}
+current: post
+title: "{{ title }}""
+date: {{ date }}
+cover: ''
+navigation: False
+tags: []
+class: post-template
+subclass: 'post'
+author: go2zo
+---

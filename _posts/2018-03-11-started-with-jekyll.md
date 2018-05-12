@@ -76,13 +76,8 @@ Jekyll로 우선 방향을 잡고 [테마](http://jekyllthemes.org/)를 고르�
 
 ### Jekyll 설치
 
-Jekyll은 ruby 기반이므로 gem을 통해 설치해야 한다. 
-
 ### Octopress 설치
 
 ### Octopress 템플릿
 
 ### 테마 설치
-
-## Trouble-shooting
-

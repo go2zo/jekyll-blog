@@ -26,7 +26,7 @@ twitter: go2zo # replace by your username
 facebook: go2zo # replace by your username
 
 # Permalinks
-permalink: /:title
+permalink: /blog/:title
 # permalink: /author/:author
 # permalink: /tag/:tag
 
